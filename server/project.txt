@@ -1,0 +1,13 @@
+1. npm i express mongoose dotenv jsonwebtoken bcrypt validator nodemon colors
+2. setup index.js
+3. setup database
+4. work on model
+5. work on validation
+6. work on routes (8. with validation)
+7. work on controllers (formidable use for loading form data)
+8. setup product
+9. setup user
+10. use bcrypt (helper)
+11. use jsonwebtoken (middleware)
+12. work on forget password
+13. work on send and submit otp
